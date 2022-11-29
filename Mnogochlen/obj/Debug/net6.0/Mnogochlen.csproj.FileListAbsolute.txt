@@ -1,0 +1,15 @@
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/bin/Debug/net6.0/Mnogochlen
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/bin/Debug/net6.0/Mnogochlen.deps.json
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/bin/Debug/net6.0/Mnogochlen.runtimeconfig.json
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/bin/Debug/net6.0/Mnogochlen.dll
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/bin/Debug/net6.0/Mnogochlen.pdb
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.csproj.AssemblyReference.cache
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.AssemblyInfoInputs.cache
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.AssemblyInfo.cs
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.csproj.CoreCompileInputs.cache
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.dll
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/refint/Mnogochlen.dll
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.pdb
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/Mnogochlen.genruntimeconfig.cache
+/Users/aleksandr/Documents/c#/SEMINAR2829/Mnogochlen/obj/Debug/net6.0/ref/Mnogochlen.dll
