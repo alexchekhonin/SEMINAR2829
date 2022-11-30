@@ -42,7 +42,7 @@ int[] GetKoeff(int[,] tr, int pow)
   return row;
 }
 
-int[,] tr = CreateTriangle(7);
+int[,] tr = CreateTriangle(10);
 PrintTriangle(tr);
 int[] koeff = GetKoeff(tr, 5);
 
