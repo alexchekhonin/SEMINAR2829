@@ -47,7 +47,7 @@ string Print(int[] f)
     int t = f[i];
     if (f[i] == 0) continue;
     if (f[i] < 0) { output += " - "; }
-    else if (i != 0) { output += " + "; }
+    else if (i != 0 && (i-1) != 0) { output += " + "; }
 
     if (t < 0) t = -t;
     if (i == 1) { output += $"{t}x"; }
